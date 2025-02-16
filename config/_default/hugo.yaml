@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
+title: Saiin Research Group # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
@@ -14,6 +14,27 @@ defaultContentLanguage: zh
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: true
 removePathAccents: true
+languages:
+  zh:
+    contentDir: content/
+    disabled: false
+    languageCode: zh
+    languageDirection: ltr
+    languageName: chineses
+    params:
+      subtitle: Referenz, Tutorials und Erklärungen
+    title: 'Saiin课题组'
+    weight: 1
+  en:
+    contentDir: content/en
+    disabled: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: English
+    params:
+      subtitle: Reference, Tutorials, and Explanations
+    title: Saiin Research Group
+    weight: 2
 
 ############################
 ## ADVANCED
