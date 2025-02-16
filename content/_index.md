@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        saiin
+        Saiin
         Research Group
       image:
         filename: welcome.jpg
