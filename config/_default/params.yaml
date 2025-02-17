@@ -34,13 +34,17 @@ marketing:
 header:
   navbar:
     enable: true
+    blox: "navbar"
     align: r
     show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
     highlight_active_link: false
-
+    logo:
+      text: "111"
+      filename: "xjtuxiaohui.svg"
+    show_translations: true
 # Site footer
 
 footer:
@@ -101,6 +105,9 @@ features:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
+  logo:
+      text: "111"
+      filename: "xjtuxiaohui.svg"
 
 # Extensions
 

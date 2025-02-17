@@ -11,7 +11,7 @@ sections:
         Saiin
         Research Group
       image:
-        filename: welcome.jpg
+        filename: xjtuxiaohui.jpg
       text: |
         <br>
         

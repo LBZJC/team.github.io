@@ -23,7 +23,9 @@ languages:
     languageName: chineses
     params:
       subtitle: Referenz, Tutorials und Erklärungen
-    title: 'Saiin课题组'
+    title: '网络空间安全学院 Saiin课题组'
+    image:
+      filename: xjtuxiaohui.jpg
     weight: 1
   en:
     contentDir: content/en
