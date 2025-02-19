@@ -21,7 +21,7 @@ organizations:
 bio: 
 
 # List each interest with a dash
-Researchdirection:
+interests:
 - Interest 1
 - Interest 2
 
