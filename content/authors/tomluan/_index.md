@@ -10,7 +10,7 @@ last_name: Tom
 superuser: true
 
 # Role/position
-role: Professor
+role: 教授
 
 # Organizations/Affiliations
 organizations:
